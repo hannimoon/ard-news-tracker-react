@@ -114,4 +114,6 @@ During test runs, we **never** hit the real Symfony database. Instead:
 * [x] **Phase 4:** Establish an automated linting configuration combining ESLint 10 Flat Config and Prettier.
 * [x] **Phase 5:** Implement the Generic State Fetching client connecting to the live Symfony Core Endpoints.
 * [x] **Phase 6:** Integrate robust Unit and Integration Tests using Vitest, React Testing Library, and MSW.
-* [ ] **Phase 7 (Next):** Reactivate the UI filter states to support **Live Searching and Pagination data** via URL parameters.
+* [ ] **Phase 7 (Next):** Implement full SSL/TLS encryption architecture: Configure `@vitejs/plugin-basic-ssl` for secure local HTTPS environment parity, and prepare automated production SSL deployment workflows.
+* [ ] **Phase 8:** Reactivate UI filter states for live searching and pagination via URL parameters.
+* [ ] **Phase 9:** Implement "Mark as Read" feature and dedicated tabs.parameters.
