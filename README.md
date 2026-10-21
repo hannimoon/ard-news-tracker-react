@@ -55,8 +55,8 @@ node --version # Should output v22.x.x or higher
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
-   cd ARD-News-Tracker
+   git clone https://github.com/hannimoon/ard-news-tracker-react.git
+   cd ard-news-tracker-react
    ```
 
 2. Install dependencies:
